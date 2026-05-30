@@ -1,0 +1,594 @@
+The morning sun rose above the hills and painted the sky with shades of gold.
+A gentle wind moved through the trees and carried the scent of fresh grass.
+People slowly left their homes and began their daily routines.
+Some walked toward the market while others traveled to distant towns.
+The streets were quiet at first but gradually filled with activity.
+Children laughed as they played near the fountain in the town square.
+Merchants arranged their goods and greeted familiar customers.
+The baker opened the shop and placed warm bread on display.
+Travelers stopped to rest before continuing their journeys.
+Clouds drifted across the sky without urgency.
+
+The old library stood at the end of a narrow road.
+Many visitors came searching for knowledge and forgotten stories.
+Shelves stretched from floor to ceiling and held countless books.
+Dust danced in the sunlight that entered through tall windows.
+Every room contained secrets waiting to be discovered.
+Readers spent hours turning pages and taking notes.
+Some searched for history while others preferred fiction.
+The librarian knew the location of nearly every book.
+Silence filled the building except for the occasional sound of footsteps.
+Time seemed to move differently inside the library.
+
+A young programmer sat in front of a computer late at night.
+Lines of code covered the screen in neat patterns.
+Each problem required patience and careful thought.
+Errors appeared frequently but were eventually resolved.
+The programmer learned something new every day.
+Projects grew larger as experience increased.
+Documentation became an important source of information.
+Testing revealed weaknesses that needed improvement.
+Success came from consistent effort rather than luck.
+Small victories provided motivation to continue.
+
+The forest extended far beyond the visible horizon.
+Birds sang from hidden branches high above the ground.
+Animals moved carefully between trees and bushes.
+Sunlight filtered through leaves and created shifting shadows.
+Streams flowed quietly over smooth stones.
+Moss covered fallen logs and damp earth.
+Nature continued its work without concern for human schedules.
+Every season transformed the landscape in unique ways.
+The forest appeared peaceful but contained many challenges.
+Explorers respected its beauty and unpredictability.
+
+A train arrived at the station shortly before sunset.
+Passengers gathered their belongings and prepared to leave.
+Announcements echoed through the terminal.
+Some travelers rushed toward connecting routes.
+Others paused to enjoy the changing colors of the evening sky.
+The platform remained busy for several hours.
+Workers ensured that schedules remained accurate.
+The train departed and disappeared into the distance.
+Silence returned once the crowds were gone.
+Only a few lights remained visible.
+
+Technology changes rapidly and influences daily life.
+New devices appear every year with improved capabilities.
+People adapt to these changes at different speeds.
+Some embrace innovation immediately.
+Others prefer familiar methods and established tools.
+Communication has become faster and more accessible.
+Information travels across the world in seconds.
+Learning resources are available to anyone with an internet connection.
+Opportunities continue to expand in unexpected ways.
+Future developments remain difficult to predict.
+
+Rain began falling shortly after noon.
+The first drops landed softly on the pavement.
+Within minutes the storm became much stronger.
+Umbrellas appeared throughout the city.
+Traffic slowed as visibility decreased.
+Water collected along roads and sidewalks.
+Thunder echoed across the skyline.
+Many people remained indoors until conditions improved.
+The storm eventually passed and sunlight returned.
+Fresh air followed the rainfall.
+
+A musician practiced every evening without fail.
+Progress was often gradual and difficult to measure.
+Mistakes occurred during nearly every session.
+Repetition transformed weaknesses into strengths.
+Songs that once seemed impossible became manageable.
+Performance anxiety decreased with experience.
+Confidence developed through preparation.
+The musician understood that mastery required time.
+Every hour of practice contributed to future success.
+Dedication remained more important than talent alone.
+
+The mountain trail attracted hikers from many regions.
+Some arrived seeking adventure while others desired solitude.
+The path became steeper as elevation increased.
+Breathing required greater effort near the summit.
+Despite the challenge the scenery remained breathtaking.
+Valleys stretched far below the observation points.
+Photographs captured only a fraction of the experience.
+Weather conditions changed quickly at higher altitudes.
+Preparation was essential for safety.
+Reaching the summit brought a sense of accomplishment.
+
+A game developer worked on an independent project.
+Pixel art characters moved across colorful environments.
+Dialogue introduced players to the world and its inhabitants.
+Simple mechanics gradually evolved into deeper systems.
+Frequent testing helped identify design flaws.
+Feedback from players guided future improvements.
+Balancing difficulty required careful adjustments.
+Development continued over many months.
+The final release reflected countless hours of effort.
+Creative passion drove the project forward.
+
+Every challenge contains an opportunity to learn.
+Failure often provides lessons that success cannot teach.
+Persistence allows people to overcome obstacles.
+Goals become achievable through consistent action.
+Small improvements accumulate over time.
+Knowledge grows when curiosity remains active.
+Skills improve through deliberate practice.
+Experience develops through repetition and reflection.
+Meaningful progress rarely occurs overnight.
+Long term commitment creates remarkable results.
+
+The stars appeared one by one as darkness covered the sky.
+A cool breeze moved across the open field.
+Observers looked upward and searched for constellations.
+Some discussed astronomy while others simply enjoyed the view.
+The universe seemed endless and mysterious.
+Questions inspired further exploration and research.
+New discoveries expanded human understanding.
+Technology enabled deeper observation of distant objects.
+Scientists continued studying the cosmos.
+Wonder remained an important part of the experience.
+
+=== FANTASY ===
+
+The kingdom stood upon a cliff overlooking the sea.
+Ancient walls protected generations of citizens.
+Magic was rare but not forgotten.
+Travelers often spoke about dragons beyond the mountains.
+A young knight dreamed of becoming a hero.
+The royal library contained records older than the kingdom itself.
+Legends described hidden ruins beneath the forest.
+Every full moon strange lights appeared near the river.
+No one knew their true origin.
+Many adventurers tried to uncover the mystery.
+
+The wizard adjusted his robe and examined the ancient artifact.
+Runes glowed faintly along its surface.
+A mysterious energy filled the room.
+The artifact seemed older than recorded history.
+Several scholars had attempted to decipher its meaning.
+None had succeeded completely.
+The wizard believed the answer was hidden in forgotten texts.
+He spent years studying the subject.
+Patience was necessary for difficult discoveries.
+Knowledge often rewarded persistence.
+
+=== RPG MAKER STYLE ===
+
+Hero: Where am I?
+Girl: You're finally awake.
+Hero: What happened?
+Girl: You collapsed near the forest.
+Hero: How long was I unconscious?
+Girl: Almost a day.
+Hero: Thank you for helping me.
+Girl: It was the least I could do.
+
+Narrator: The town seemed peaceful at first glance.
+Narrator: However something felt unusual.
+Guard: Stay away from the northern road.
+Guard: Strange creatures have appeared recently.
+Merchant: Supplies are becoming expensive.
+Merchant: Travelers are afraid to visit.
+Hero: Then I should investigate.
+
+=== CHAT CONVERSATION ===
+
+User: hello
+Bot: hi there
+User: how are you
+Bot: I'm doing well today
+User: what are you doing
+Bot: I'm chatting with you
+User: that's nice
+Bot: thank you
+
+User: what's your favorite game
+Bot: I enjoy talking about many games
+User: do you play games
+Bot: not exactly but I know many games
+User: interesting
+Bot: I'm glad you think so
+
+=== PROGRAMMING ===
+
+Python is a popular programming language.
+Variables store information for later use.
+Functions help organize code into reusable components.
+Debugging is an essential skill.
+Most programmers spend significant time reading documentation.
+Practice improves problem solving ability.
+Understanding fundamentals creates a strong foundation.
+Complex systems are built from simple components.
+Testing helps prevent unexpected behavior.
+Continuous learning is part of software development.
+
+Godot is an open source game engine.
+Nodes form the foundation of a Godot project.
+Scenes allow developers to organize game objects.
+Scripts define behavior.
+Signals enable communication between nodes.
+Game development requires iteration and testing.
+Many bugs originate from small mistakes.
+Careful debugging often reveals simple solutions.
+Documentation provides valuable guidance.
+Experience grows with every project.
+
+=== SCIENCE ===
+
+The Earth revolves around the Sun.
+Gravity influences the motion of celestial bodies.
+Scientists use observations to develop theories.
+Experiments help verify predictions.
+Research expands human understanding.
+Knowledge evolves over time.
+New evidence can change existing models.
+Curiosity drives scientific progress.
+Technology enables more precise measurements.
+Discovery remains an ongoing process.
+
+=== KAMEN RIDER STYLE ===
+
+Hero: Henshin!
+Narrator: The warrior transformed instantly.
+Villain: You cannot stop my plans.
+Hero: I will protect everyone.
+Villain: Then prove your strength.
+The battle began without hesitation.
+Energy attacks illuminated the battlefield.
+Neither side intended to retreat.
+The outcome would determine the future.
+Courage became the deciding factor.
+
+Hero: I fight because people matter.
+Ally: Then we'll fight together.
+Villain: Friendship changes nothing.
+Hero: That's where you're wrong.
+The final attack gathered tremendous power.
+A brilliant flash covered the area.
+Silence followed.
+The battle was over.
+
+=== SLICE OF LIFE ===
+
+The café was quiet during the afternoon.
+A few customers read books near the windows.
+Soft music played in the background.
+The smell of coffee filled the room.
+Rain tapped gently against the glass.
+People enjoyed the peaceful atmosphere.
+Conversations remained calm and unhurried.
+Time seemed to slow down.
+The moment felt comfortable.
+Nobody wanted to leave.
+
+=== INDONESIA - KEHIDUPAN SEHARI-HARI ===
+
+Pagi itu cuaca sangat cerah.
+Burung berkicau di sekitar rumah.
+Aku menyiapkan sarapan sebelum memulai aktivitas.
+Jalanan mulai ramai oleh kendaraan.
+Anak-anak berangkat ke sekolah.
+Pedagang membuka toko mereka.
+Hari berjalan seperti biasa.
+Tidak ada kejadian yang terlalu istimewa.
+Namun suasana terasa menyenangkan.
+Semua orang menjalani rutinitas masing-masing.
+
+Sore hari hujan mulai turun.
+Beberapa orang bergegas mencari tempat berteduh.
+Udara menjadi lebih sejuk.
+Aroma tanah basah memenuhi lingkungan.
+Lampu rumah mulai menyala.
+Anak-anak kembali dari tempat bermain.
+Malam datang perlahan.
+Suasana menjadi lebih tenang.
+
+=== INDONESIA - BELAJAR ===
+
+Belajar membutuhkan konsistensi.
+Motivasi memang penting tetapi disiplin lebih penting.
+Kemajuan kecil tetap merupakan kemajuan.
+Tidak semua hasil terlihat dalam satu hari.
+Kesabaran diperlukan untuk menguasai keterampilan baru.
+Kesalahan adalah bagian dari proses belajar.
+Setiap kegagalan mengandung pelajaran.
+Orang yang terus mencoba akan berkembang.
+Pengetahuan bertambah sedikit demi sedikit.
+Waktu akan menunjukkan hasil usaha tersebut.
+
+=== INDONESIA - PROGRAMMING ===
+
+Godot adalah game engine yang cukup populer.
+Node merupakan komponen utama dalam Godot.
+Scene digunakan untuk mengatur objek permainan.
+Script digunakan untuk mengontrol perilaku objek.
+Debugging sering kali memakan waktu.
+Banyak bug ternyata berasal dari kesalahan kecil.
+Membaca dokumentasi dapat menghemat banyak waktu.
+Eksperimen membantu memahami konsep baru.
+Pengalaman diperoleh melalui praktik.
+Proyek sederhana dapat menjadi sarana belajar yang efektif.
+
+Unity digunakan untuk membuat berbagai jenis game.
+Komponen menentukan perilaku suatu objek.
+Prefab mempermudah penggunaan ulang aset.
+Optimasi penting untuk menjaga performa.
+Pengujian perlu dilakukan secara berkala.
+Pengembangan game membutuhkan kesabaran.
+Hasil yang baik memerlukan banyak iterasi.
+Tidak ada proyek yang sempurna.
+Selalu ada ruang untuk perbaikan.
+
+=== INDONESIA - CHATBOT ===
+
+Pengguna: Halo
+Bot: Halo juga
+Pengguna: Apa kabar
+Bot: Saya baik hari ini
+Pengguna: Sedang apa
+Bot: Saya sedang mengobrol dengan Anda
+Pengguna: Menarik
+Bot: Senang mendengarnya
+
+Pengguna: Apakah kamu bisa membantu belajar
+Bot: Tentu saja
+Pengguna: Bagaimana cara belajar lebih efektif
+Bot: Buat jadwal yang konsisten dan fokus pada praktik
+Pengguna: Baiklah
+Bot: Semoga berhasil
+
+=== INDONESIA - GAME INDIE ===
+
+Seorang pengembang sedang membuat game indie.
+Grafis piksel dipilih karena sederhana dan menarik.
+Cerita menjadi fokus utama permainan.
+Dialog ditulis dengan hati-hati.
+Mekanik permainan dibuat sesederhana mungkin.
+Pengujian dilakukan setiap minggu.
+Masukan pemain dicatat untuk evaluasi.
+Setiap versi membawa perbaikan baru.
+Proyek berkembang secara bertahap.
+Semangat berkarya tetap terjaga.
+
+=== PHILOSOPHY ===
+
+A person becomes what they repeatedly do.
+Habits shape outcomes over long periods of time.
+Discipline often outperforms motivation.
+Knowledge without action has limited value.
+Action creates experience.
+Experience creates wisdom.
+Wisdom improves judgment.
+Judgment influences future decisions.
+The cycle continues throughout life.
+Growth requires deliberate effort.
+
+=== DISCORD STYLE ===
+
+user1: anyone online
+user2: yes what happened
+user1: nothing just bored
+user3: same honestly
+user2: did you finish the game
+user1: not yet
+user3: the final boss is difficult
+user1: don't spoil it please
+user2: understood
+user3: good luck then
+
+user4: server seems quiet today
+user5: everyone is studying
+user4: that's unexpected
+user5: exams are approaching
+user4: makes sense
+user6: I should probably study too
+user5: probably
+user6: I'll start tomorrow
+user4: famous last words
+
+=== FORUM DISCUSSION ===
+
+Thread: Best programming language for beginners
+
+UserA: Python is easy to learn.
+UserB: It depends on the goal.
+UserC: JavaScript is useful because it runs everywhere.
+UserD: Fundamentals matter more than language choice.
+UserA: I agree with that.
+UserB: Consistency is more important than tools.
+UserC: Building projects teaches a lot.
+UserD: Experience comes from practice.
+
+Thread: Favorite game genre
+
+UserA: I enjoy role playing games.
+UserB: Strategy games are more interesting to me.
+UserC: Rhythm games require a lot of practice.
+UserD: Every genre has good examples.
+UserA: That's true.
+UserB: Quality matters more than genre.
+
+=== WIKIPEDIA STYLE ===
+
+The city is located near a large river.
+Its population increased steadily during the twentieth century.
+The local economy is supported by trade and tourism.
+Several historical landmarks attract visitors.
+The climate is generally warm and humid.
+Transportation infrastructure continues to develop.
+Educational institutions play an important role in the region.
+Cultural festivals are held annually.
+The area contains diverse ecosystems.
+Research on local history remains active.
+
+The species inhabits forested environments.
+It is primarily active during the night.
+Its diet consists of small animals and insects.
+Researchers continue studying its behavior.
+Conservation efforts have increased in recent years.
+Population estimates vary between regions.
+Habitat loss remains a significant concern.
+Several protected areas support recovery efforts.
+The species plays an important ecological role.
+Further research is ongoing.
+
+=== GODOT DOCUMENTATION STYLE ===
+
+Nodes are the fundamental building blocks of a scene.
+A node can contain child nodes.
+Scenes can be instantiated inside other scenes.
+Signals allow nodes to communicate.
+Scripts can be attached to nodes.
+The editor provides tools for development.
+Resources can be reused across projects.
+Input events are processed by the engine.
+Physics calculations occur every frame.
+Developers can extend existing functionality.
+
+A CharacterBody2D node is commonly used for movement.
+Velocity determines movement speed.
+Collision detection prevents objects from passing through walls.
+Input actions can be configured in project settings.
+AnimationPlayer controls animations.
+Timers execute actions after a delay.
+Groups simplify object management.
+Autoloads provide global access.
+Optimization improves performance.
+Testing should be performed regularly.
+
+=== UNITY STYLE ===
+
+GameObjects are the primary entities in a scene.
+Components define behavior.
+Transform controls position rotation and scale.
+Scripts extend functionality.
+Prefabs allow object reuse.
+Physics components enable realistic interactions.
+Colliders detect contact between objects.
+Animation systems control movement.
+Optimization is important for large projects.
+Profiling helps identify bottlenecks.
+
+=== RPG NPC DIALOGUE ===
+
+Villager: The weather is nice today.
+Villager: I heard travelers arrived this morning.
+Villager: The market is crowded lately.
+Villager: Be careful if you enter the forest.
+Villager: Strange sounds can be heard at night.
+
+Merchant: Welcome traveler.
+Merchant: Take a look at my wares.
+Merchant: Everything is reasonably priced.
+Merchant: Come again soon.
+
+Guard: The gate closes at sunset.
+Guard: Please follow town regulations.
+Guard: Report suspicious activity immediately.
+
+=== INDONESIA - DISCORD ===
+
+pengguna1: ada yang online
+pengguna2: ada
+pengguna1: lagi ngapain
+pengguna2: belajar
+pengguna3: aku malah main game
+pengguna1: tugas sudah selesai
+pengguna3: belum
+pengguna2: semangat
+
+pengguna4: server sepi banget
+pengguna5: mungkin semua lagi sibuk
+pengguna4: masuk akal
+pengguna6: aku juga baru online
+
+=== INDONESIA - BELAJAR GODOT ===
+
+Hari ini aku belajar tentang node.
+Node dapat memiliki child node.
+Scene dapat digunakan kembali.
+Signal memungkinkan komunikasi antar node.
+Awalnya aku bingung dengan dokumentasi.
+Setelah mencoba sendiri konsepnya menjadi lebih jelas.
+Masih ada beberapa error yang belum kupahami.
+Namun perlahan aku mulai terbiasa.
+Praktik lebih membantu daripada hanya membaca teori.
+Aku akan melanjutkan belajar besok.
+
+Hari ini aku membuat game 2D sederhana.
+Karakter dapat bergerak ke berbagai arah.
+Musuh muncul secara acak.
+Sistem skor mulai berfungsi.
+Masih ada beberapa bug.
+Sebagian besar berasal dari kesalahan kecil.
+Debugging memerlukan kesabaran.
+Setelah diperbaiki game berjalan lebih baik.
+Aku belajar banyak dari proses tersebut.
+
+=== TRADING ===
+
+Market conditions change constantly.
+Risk management is essential.
+No strategy wins every trade.
+Emotions influence decision making.
+Patience can improve results.
+Discipline protects capital.
+Long term consistency matters.
+Successful traders follow a plan.
+Losses are part of the process.
+Continuous learning is important.
+
+Harga bergerak sesuai penawaran dan permintaan.
+Tidak ada jaminan keuntungan.
+Manajemen risiko sangat penting.
+Trader harus mengendalikan emosi.
+Keputusan impulsif sering menimbulkan kerugian.
+Evaluasi diperlukan setelah setiap transaksi.
+Pengalaman membantu meningkatkan kemampuan analisis.
+Kesabaran merupakan aset yang berharga.
+
+=== CHESS ===
+
+White develops the knight.
+Black responds with a symmetrical move.
+Control of the center is important.
+Development should occur efficiently.
+King safety remains a priority.
+Tactical opportunities emerge from active pieces.
+Calculation improves decision making.
+Endgames reward precision.
+Strong players evaluate positions carefully.
+Experience improves pattern recognition.
+
+The player considered several candidate moves.
+One variation led to a favorable endgame.
+Another variation created tactical complications.
+Time management became important.
+The clock continued ticking.
+Accuracy mattered more than speed.
+The position gradually simplified.
+A single mistake changed the evaluation.
+The game concluded peacefully.
+Both players analyzed the result afterward.
+
+=== AI CHATBOT ===
+
+Human: tell me a story
+AI: once there was a traveler seeking knowledge
+Human: what happened next
+AI: the traveler explored distant lands
+Human: did the traveler succeed
+AI: success depended on perseverance
+Human: interesting
+AI: every journey teaches valuable lessons
+
+Human: can you explain programming
+AI: programming is the process of creating instructions
+Human: is it difficult
+AI: it becomes easier with practice
+Human: where should I start
+AI: begin with small projects
+
+ini ibu Budi
