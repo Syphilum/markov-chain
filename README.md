@@ -1,6 +1,8 @@
-#Markov Chain text generator#
-##How to use it
-'''cd markov-chain
+# Markov Chain text generator#
+## How to use it
 '''
-'''python main.py
+cd markov-chain
+'''
+'''
+python main.py
 '''
