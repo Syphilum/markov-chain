@@ -1,6 +1,6 @@
 # Markov Chain Text Generator
 
-[cite_start]A Python-based text generator that uses the `markovify` library to analyze a training corpus and generate random, structurally similar text.
+A Python-based text generator that uses the `markovify` library to analyze a training corpus and generate random, structurally similar text.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Before running this project, ensure you have the following installed:
 * **Python 3.6+** 
-* [cite_start]**markovify** (installed via the instructions below)
+* **markovify** (installed via the instructions below)
 
 ---
 
