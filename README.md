@@ -1,6 +1,6 @@
 # Markov Chain Text Generator
 
-A Python-based text generator that uses Markov chains to analyze a training corpus and generate random, structurally similar text.
+[cite_start]A Python-based text generator that uses the `markovify` library to analyze a training corpus and generate random, structurally similar text.
 
 ---
 
@@ -8,8 +8,7 @@ A Python-based text generator that uses Markov chains to analyze a training corp
 
 Before running this project, ensure you have the following installed:
 * **Python 3.6+** 
-
-*Note: This project relies purely on the Python Standard Library, so no external dependencies or `pip install` commands are required.*
+* [cite_start]**markovify** (installed via the instructions below)
 
 ---
 
@@ -27,7 +26,12 @@ Change your current working directory to the project folder:
 ```bash
 cd markov-chain
 ```
-### 3. Run the Script
+### 3. Install Dependencies
+Install the required markovify library using pip:
+```bash
+pip install -r requirements.txt
+```
+### 4. Run the Script
 Execute the main Python file to generate text:
 ```bash
 python main.py
