@@ -1,0 +1,11 @@
+{
+  "name": "markov-chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build command'",
+    "start": "echo 'Start command'"
+  },
+  "dependencies": {}
+}
