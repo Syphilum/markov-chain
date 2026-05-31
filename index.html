@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markov Chain Text Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>🤖 Markov Chain Text Generator</h1>
+                <p class="subtitle">AI-powered text completion menggunakan Markov Chain Algorithm</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Control Panel -->
+            <section class="control-panel">
+                <div class="control-group">
+                    <label for="orderInput">Markov Order:</label>
+                    <select id="orderInput">
+                        <option value="1">Order 1</option>
+                        <option value="2" selected>Order 2</option>
+                        <option value="3">Order 3</option>
+                        <option value="4">Order 4</option>
+                    </select>
+                </div>
+
+                <div class="control-group">
+                    <label for="lengthInput">Panjang Generasi:</label>
+                    <input type="range" id="lengthInput" min="5" max="100" value="20">
+                    <span id="lengthValue">20</span> kata
+                </div>
+
+                <button id="loadDatasetBtn" class="btn btn-primary">📂 Load Dataset</button>
+            </section>
+
+            <!-- Main Chat Area -->
+            <div class="chat-container">
+                <!-- Chat Display -->
+                <div id="chatBox" class="chat-box">
+                    <div class="message bot-message">
+                        <span class="message-icon">🤖</span>
+                        <div class="message-content">
+                            <p>Selamat datang! Saya adalah Bot Markov Chain Text Generator.</p>
+                            <p>Silakan upload dataset atau mulai dengan mengetik prompt untuk melanjutkan teks.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Input Area -->
+                <div class="input-area">
+                    <div class="input-row">
+                        <textarea 
+                            id="promptInput" 
+                            class="prompt-input" 
+                            placeholder="Ketik kalimat awal atau prompt di sini..."
+                            rows="2"></textarea>
+                        <button id="generateBtn" class="btn btn-success">✨ Generate</button>
+                    </div>
+
+                    <div class="input-options">
+                        <button id="clearChatBtn" class="btn btn-secondary">🗑️ Clear Chat</button>
+                        <button id="copyChatBtn" class="btn btn-secondary">📋 Copy Chat</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <!-- Dataset Upload -->
+                <div class="card">
+                    <h3>📚 Dataset</h3>
+                    <div class="upload-area" id="uploadArea">
+                        <input type="file" id="fileInput" accept=".txt" style="display: none;">
+                        <button class="btn btn-outline" onclick="document.getElementById('fileInput').click()">
+                            📤 Upload File
+                        </button>
+                        <p class="upload-info">atau drag & drop file .txt</p>
+                    </div>
+                    <div id="fileInfo" class="file-info" style="display: none;">
+                        <p id="fileName"></p>
+                        <p id="fileSize"></p>
+                    </div>
+                </div>
+
+                <!-- Quick Templates -->
+                <div class="card">
+                    <h3>⚡ Quick Prompts</h3>
+                    <div class="templates">
+                        <button class="template-btn" onclick="setPrompt('Saya')">💭 Saya</button>
+                        <button class="template-btn" onclick="setPrompt('Teknologi')">💻 Teknologi</button>
+                        <button class="template-btn" onclick="setPrompt('Hari ini')">📅 Hari ini</button>
+                        <button class="template-btn" onclick="setPrompt('Jika')">🤔 Jika</button>
+                    </div>
+                </div>
+
+                <!-- Training Info -->
+                <div class="card">
+                    <h3>📊 Info Bot</h3>
+                    <div class="info-box">
+                        <p><strong>Status:</strong> <span id="botStatus">Belum dilatih</span></p>
+                        <p><strong>Total States:</strong> <span id="totalStates">0</span></p>
+                        <p><strong>Dataset Size:</strong> <span id="datasetSize">0 KB</span></p>
+                    </div>
+                </div>
+
+                <!-- Instructions -->
+                <div class="card">
+                    <h3>📖 Cara Menggunakan</h3>
+                    <ul class="instructions">
+                        <li>Upload file .txt berisi dataset</li>
+                        <li>Ketik prompt awal di input box</li>
+                        <li>Klik tombol "Generate"</li>
+                        <li>Bot akan melanjutkan teks Anda</li>
+                        <li>Sesuaikan Order dan Length sesuai kebutuhan</li>
+                    </ul>
+                </div>
+            </aside>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>© 2026 Markov Chain Text Generator | Dibuat dengan ❤️ oleh Syphilum</p>
+        </footer>
+    </div>
+
+    <!-- Modal untuk loading -->
+    <div id="loadingModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="spinner"></div>
+            <p>Processing...</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
